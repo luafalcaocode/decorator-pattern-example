@@ -1,0 +1,13 @@
+C:\Lua\labs\decorator-example-products\decorator-example-products\bin\Debug\netcoreapp3.1\decorator-example-products.exe
+C:\Lua\labs\decorator-example-products\decorator-example-products\bin\Debug\netcoreapp3.1\decorator-example-products.deps.json
+C:\Lua\labs\decorator-example-products\decorator-example-products\bin\Debug\netcoreapp3.1\decorator-example-products.runtimeconfig.json
+C:\Lua\labs\decorator-example-products\decorator-example-products\bin\Debug\netcoreapp3.1\decorator-example-products.runtimeconfig.dev.json
+C:\Lua\labs\decorator-example-products\decorator-example-products\bin\Debug\netcoreapp3.1\decorator-example-products.dll
+C:\Lua\labs\decorator-example-products\decorator-example-products\bin\Debug\netcoreapp3.1\decorator-example-products.pdb
+C:\Lua\labs\decorator-example-products\decorator-example-products\obj\Debug\netcoreapp3.1\decorator-example-products.csprojAssemblyReference.cache
+C:\Lua\labs\decorator-example-products\decorator-example-products\obj\Debug\netcoreapp3.1\decorator-example-products.AssemblyInfoInputs.cache
+C:\Lua\labs\decorator-example-products\decorator-example-products\obj\Debug\netcoreapp3.1\decorator-example-products.AssemblyInfo.cs
+C:\Lua\labs\decorator-example-products\decorator-example-products\obj\Debug\netcoreapp3.1\decorator-example-products.csproj.CoreCompileInputs.cache
+C:\Lua\labs\decorator-example-products\decorator-example-products\obj\Debug\netcoreapp3.1\decorator-example-products.dll
+C:\Lua\labs\decorator-example-products\decorator-example-products\obj\Debug\netcoreapp3.1\decorator-example-products.pdb
+C:\Lua\labs\decorator-example-products\decorator-example-products\obj\Debug\netcoreapp3.1\decorator-example-products.genruntimeconfig.cache
